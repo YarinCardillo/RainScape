@@ -2,8 +2,8 @@
 	"name" : "RainScape",
 	"version" : 1,
 	"creationdate" : 3828639893,
-	"modificationdate" : 3828793512,
-	"viewrect" : [ 291.0, 334.0, 300.0, 500.0 ],
+	"modificationdate" : 3828880515,
+	"viewrect" : [ 1415.0, 433.0, 338.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -46,6 +46,14 @@
 ,
 			"step3.wav" : 			{
 				"kind" : "audiofile",
+				"local" : 1
+			}
+
+		}
+,
+		"other" : 		{
+			"default.maxtheme" : 			{
+				"kind" : "file",
 				"local" : 1
 			}
 
